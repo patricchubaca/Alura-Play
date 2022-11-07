@@ -16,6 +16,16 @@
   flex-wrap: wrap;
 }
 
+.superior__secao__container {
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+  gap: 15px;
+  overflow: scroll;
+
+}
+
+
 @media (min-width: 834px) {
   .cabecalho__pesquisar__item {
     display: block;
