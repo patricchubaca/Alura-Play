@@ -56,7 +56,11 @@
   display: none;
 }
 
-@media (min-width: 1440px) {}
+@media (min-width: 1440px) {
+  .menu__container {
+    width: 239px;
+  }
+}
 
 @media (min-width: 834px) {
   .cabecalho__pesquisar__item {
@@ -65,5 +69,17 @@
 
   .rodape__container {
     justify-content: space-between;
+  }
+
+  .menu__container {
+    width: 74px;
+    height: 100%;
+  }
+
+  .menu__lista {
+    flex-direction: column;
+    justify-content: flex-start;
+    padding-top: 15px;
+    gap: 33px;
   }
 }
