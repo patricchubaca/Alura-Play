@@ -4,7 +4,7 @@ Página do grupo Alura.
 
 O projeto tem como principal a pratica do Flexbox, para entender as nuances da propridade.
 
-O projeto esta responsivo para todos os tamanhos de tela. Para modelar o leyout, foram usadas as propridades para os flex-container e flex-item
+O projeto esta responsivo para todos os tamanhos de tela. Para modelar o layout, foram usadas as propridades para os flex-container e flex-item
 
     flex-container      flex-item
      
