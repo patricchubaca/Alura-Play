@@ -1,5 +1,7 @@
 # Discovering-Flexbox Alura-Play
 
+https://patricchubaca.github.io/Alura-Play/
+
 Página do grupo Alura.
 
 O projeto tem como principal a pratica do Flexbox, para entender as nuances da propridade.
