@@ -1,5 +1,6 @@
 # Discovering-Flexbox Alura-Play
 
+Link para o acesso do projeto na web:
 https://patricchubaca.github.io/Alura-Play/
 
 Página do grupo Alura.
