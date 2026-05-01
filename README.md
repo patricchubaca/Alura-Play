@@ -1,21 +1,26 @@
-# Discovering-Flexbox Alura-Play
+Discovering Flexbox - Alura Play
 
-Link para o acesso do projeto na web:
+Link para acesso do projeto:
 https://patricchubaca.github.io/Alura-Play/
 
-Página do grupo Alura.
+Projeto desenvolvido durante os estudos na plataforma Alura, com foco na prática e compreensão do Flexbox.
 
-O projeto tem como principal a pratica do Flexbox, para entender as nuances da propridade.
+O principal objetivo foi explorar as propriedades do Flexbox e entender como elas influenciam na construção de layouts modernos e responsivos.
 
-O projeto esta responsivo para todos os tamanhos de tela. Para modelar o layout, foram usadas as propridades para os flex-container e flex-item
+A aplicação foi construída de forma totalmente responsiva, adaptando-se a diferentes tamanhos de tela.
 
-    flex-container      flex-item
-     
-     display: flex      flex-grow
-     flex-direction     flex-shrink  
-     justify-content    flex-basis  
-     flex-direction     flex 
-     flex-warp          align-items  
-     flex-flow
-     align-items
-     gap
+Durante o desenvolvimento, foram utilizadas propriedades tanto de flex-container quanto de flex-items, como:
+
+Flex Container
+display: flex
+flex-direction
+justify-content
+flex-wrap
+flex-flow
+align-items
+gap
+Flex Items
+flex-grow
+flex-shrink
+flex-basis
+flex
